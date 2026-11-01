@@ -36,7 +36,9 @@
 
 ## 来源与许可
 
-算法与搜索策略移植自 [xiepeixuan/SmartInventoryArrange](https://github.com/xiepeixuan/SmartInventoryArrange) v3.17.10（MIT），许可原文保留在 [UPSTREAM-LICENSE.txt](UPSTREAM-LICENSE.txt)。与官方 Mod API 的对接、菜单补丁和本仓库其余代码由本项目完成。
+算法与搜索策略移植自 [xiepeixuan/SmartInventoryArrange](https://github.com/xiepeixuan/SmartInventoryArrange) v3.17.10（MIT），那部分版权归原作者，许可原文保留在 [UPSTREAM-LICENSE.txt](UPSTREAM-LICENSE.txt)。与官方 Mod API 的对接、菜单补丁和本仓库其余代码由本项目完成。
+
+本项目以 [Functional Source License 1.1（MIT Future License）](LICENSE) 发布：可以自由使用、修改、分发，也可以拿去做自己的东西，但**不能把它做成与原版功能相同或近似的商业产品或服务出售**。每个版本发布满两年后，自动转为 MIT 许可。游戏本体、Unity 与官方 SDK 不在本仓库授权范围内。
 
 ## 构建与校验
 
@@ -70,3 +72,5 @@ Nothing is deleted, duplicated or regenerated: counts, quality, durability, appr
 **Language** — the menu entries and settings text are Chinese only for now.
 
 **Credits** — algorithm ported under MIT from [xiepeixuan/SmartInventoryArrange](https://github.com/xiepeixuan/SmartInventoryArrange); the original license text ships as [UPSTREAM-LICENSE.txt](UPSTREAM-LICENSE.txt).
+
+**License** — [Functional Source License 1.1 (MIT Future License)](LICENSE): use, modify and redistribute freely, but do not sell it as a commercial product or service that substitutes for it. Each release becomes MIT-licensed two years after it ships.
