@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <ID>smart_inventory_arrange</ID>
+  <Name>Smart Inventory Arrange / 智能排列</Name>
+  <Author>Nwflower（千川白浪）</Author>
+  <ModVersion>1.0.1</ModVersion>
+  <Description>在原生整理菜单增加智能排列与智能排列（不动固定物品）：同类集中、方向统一、合法旋转、快照校验和失败回滚。基于 xiepeixuan 的 MIT 算法移植。</Description>
+  <GameVersions>
+    <Version>0.46</Version>
+  </GameVersions>
+  <Prerequisites />
+  <Assemblies>
+    <Assembly>SmartInventoryArrange.dll</Assembly>
+  </Assemblies>
+  <Capabilities>
+    <Capability>reflection-external</Capability>
+  </Capabilities>
+</Manifest>
